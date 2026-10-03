@@ -112,55 +112,55 @@ This structure keeps documentation organized and makes individual pages easy to 
 
 Technologies
 
-C
+##C
 
 Documentation for the C programming language, including variables, data types, functions, pointers, structures, dynamic memory, files, preprocessing, and compilation.
 
-C++
+##C++
 
 Documentation for C++ fundamentals and core language features, including classes, inheritance, polymorphism, templates, containers, smart pointers, lambdas, iterators, and the standard library.
 
-Python
+##Python
 
 Documentation for Python fundamentals, data structures, functions, classes, decorators, generators, modules, exceptions, and virtual environments.
 
-Haskell
+##Haskell
 
 Documentation for Haskell fundamentals, functional programming concepts, type inference, pattern matching, recursion, higher-order functions, type classes, functors, applicatives, monads, and IO.
 
-Elixir
+##Elixir
 
 Documentation for Elixir fundamentals, pattern matching, functions, modules, processes, messages, agents, tasks, supervisors, and Mix.
 
-C#
+##C#
 
 Documentation for C# fundamentals, classes, objects, inheritance, interfaces, generics, delegates, events, LINQ, lambdas, and exceptions.
 
-JavaScript
+##JavaScript
 
 Documentation for JavaScript fundamentals, functions, arrays, objects, classes, modules, promises, async/await, DOM, events, Fetch API, JSON, and local storage.
 
-Angular
+##Angular
 
 Documentation for Angular fundamentals, components, templates, bindings, directives, services, dependency injection, routing, forms, HTTP, RxJS, signals, and deployment.
 
-jQuery
+##jQuery
 
 Documentation for jQuery fundamentals, selectors, DOM manipulation, events, traversal, effects, animations, AJAX, JSON, plugins, and related features.
 
-Babel
+##Babel
 
 Documentation for Babel configuration, presets, plugins, modern JavaScript transformations, JSX, TypeScript, polyfills, source maps, CLI usage, and build pipelines.
 
-React
+##React
 
 Documentation for React fundamentals, components, JSX, props, state, hooks, forms, context, refs, fragments, portals, error boundaries, performance, and deployment.
 
-Alpine.js
+##Alpine.js
 
 Documentation for Alpine.js fundamentals, directives, data, events, forms, components, stores, plugins, magic properties, and transitions.
 
-Open Source
+##Open Source
 
 Express Developer is an open-source project.
 
